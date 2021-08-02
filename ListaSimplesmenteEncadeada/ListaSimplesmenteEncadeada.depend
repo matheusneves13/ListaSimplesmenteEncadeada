@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1627857802 source:d:\aulas\terceiro semestre\ed\listasimplesmenteencadeada\cliente.c
+	"cliente.h"
+	<stdio.h>
+	"ListaSimplesmenteEncadeada.h"
+
+1627857717 d:\aulas\terceiro semestre\ed\listasimplesmenteencadeada\cliente.h
+
+1627864878 source:d:\aulas\terceiro semestre\ed\listasimplesmenteencadeada\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cliente.h"
+	"ListaSimplesmenteEncadeada.h"
+	<locale.h>
+
+1627861638 d:\aulas\terceiro semestre\ed\listasimplesmenteencadeada\listasimplesmenteencadeada.h
+
+1627863870 source:d:\aulas\terceiro semestre\ed\listasimplesmenteencadeada\listasimplesmenteencadeada.c
+	"cliente.h"
+	<stdio.h>
+	"ListaSimplesmenteEncadeada.h"
+
